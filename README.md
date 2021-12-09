@@ -1,6 +1,3 @@
-### Hi there 👋
-
-**CSI-JuanDiego-DeJesus/CSI-JuanDiego-DeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello my name is Juan and I am a student in middle school
 
